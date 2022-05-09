@@ -1,0 +1,1 @@
+package com.guigu.controller;public class Code {    public static final Integer SUCCESS = 200;    public static final Integer ERROR = 400;    public static final Integer SYSTEM_ERROR = 500;    public static final Integer BUSSINESS_ERROR = 5001;    public static final Integer SYSTEM_UNKNOW_ERR = 5002;}

@@ -1,0 +1,1 @@
+package com.guigu.service;import com.guigu.mybatis.pojo.Dept;import java.util.List;public interface DeptService {    List<Dept> getAllDept();    Dept getDeptById(Integer id);    boolean addDept(Dept dept);    boolean deleteDept(Integer id);    boolean updateDeptInfo(Dept dept);}
