@@ -1,0 +1,1 @@
+# SSM框架整合安理效果图![](https://tva1.sinaimg.cn/large/e6c9d24ely1h22krl3r4ij21iw0u0q5s.jpg)## 技术说明1. 使用IDEA开发1. 后端全部采用注解式配置，省去xml文件的配置2. 前端采用Vue3和element-plus框架## 代码运行说明1. 双击mybatis-generator:generate，自动生成Mapper![](https://tva1.sinaimg.cn/large/e6c9d24ely1h22kxbheqdj20u80p2jvf.jpg)2. 配置Tomcat服务器3. 运行后打开浏览器即可
